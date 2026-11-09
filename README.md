@@ -1,1 +1,2 @@
-# useful-links
+   - [OddiGem](https://oddigem.com/) — каталог инструментов, бенчмарков и ИИ-агентов
+   
